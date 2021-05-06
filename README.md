@@ -44,6 +44,8 @@ ou can create a new file or modify a file using this editor.
  vi filename.txt.
  
  
+ ![bc3](https://user-images.githubusercontent.com/83635202/117353680-0d072480-aece-11eb-9caf-5ef4b0f70cbc.png)
+ 
  
  #### 9. head , tail
  The head command will output the first part of the file, while the tail command will print the last part of the file.
@@ -53,4 +55,7 @@ ou can create a new file or modify a file using this editor.
  
  #### 11. ping
  Use ping to check your connection to a server. 
+ 
+ ![bc4](https://user-images.githubusercontent.com/83635202/117353783-2dcf7a00-aece-11eb-8591-0aef5494257b.png)
+
  
