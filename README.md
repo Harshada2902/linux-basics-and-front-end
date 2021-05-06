@@ -11,12 +11,19 @@
  Use the "cd" command to go to a directory. For example, if you are in the home folder, and you want to go to the downloads folder, then you can type in “cd Downloads”.
 To go back from a folder to the folder before that, you can type “cd ..” . The two dots represent back.
 
+
+![Bc1](https://user-images.githubusercontent.com/83635202/117353001-41c6ac00-aecd-11eb-8f83-391d67f068e0.png)
+
+
+
 #### 4. mkdir & rmdir
 Use the mkdir command when you need to create a folder or a directory. 
 Use rmdir to delete a directory. But rmdir can only be used to delete an empty directory. To delete a directory containing files, use rm.
 
 #### 5. touch
 The touch command is used to create a file. It can be anything, from an empty txt file to an empty zip file.
+
+
 
 #### 6. man
  To know more about a command and how to use it, use the man command. It shows the manual pages of the command. For example, “man cd” shows the manual pages of the cd command. 
