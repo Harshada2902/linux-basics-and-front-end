@@ -24,6 +24,10 @@ Use rmdir to delete a directory. But rmdir can only be used to delete an empty d
 The touch command is used to create a file. It can be anything, from an empty txt file to an empty zip file.
 
 
+![bc2](https://user-images.githubusercontent.com/83635202/117353438-bc8fc700-aecd-11eb-8eb4-d4975f665e86.png)
+
+
+
 
 #### 6. man
  To know more about a command and how to use it, use the man command. It shows the manual pages of the command. For example, “man cd” shows the manual pages of the cd command. 
@@ -38,6 +42,8 @@ cat /etc/passwd
 ou can create a new file or modify a file using this editor.
  nano filename.txt   
  vi filename.txt.
+ 
+ 
  
  #### 9. head , tail
  The head command will output the first part of the file, while the tail command will print the last part of the file.
